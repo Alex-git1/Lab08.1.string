@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(string)\\Lab08.1(string)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5291FFC-D5A7-4D9F-8BFF-6629B3F4F434}|UnitTest1\\UnitTest1.vcxproj|C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(string)\\Lab08.1(string)\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5291FFC-D5A7-4D9F-8BFF-6629B3F4F434}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A71953D-5631-4556-9FE4-E4E213B78718}|Lab08.1(string)\\Lab08.1(string).vcxproj|C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(string)\\Lab08.1(string)\\Lab08.1(string)\\Lab08.1(string).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A71953D-5631-4556-9FE4-E4E213B78718}|Lab08.1(string)\\Lab08.1(string).vcxproj|solutionrelative:Lab08.1(string)\\Lab08.1(string).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(string)\\Lab08.1(string)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(string)\\Lab08.1(string)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T12:47:19.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab08.1(string).cpp",
+              "DocumentMoniker": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(string)\\Lab08.1(string)\\Lab08.1(string)\\Lab08.1(string).cpp",
+              "RelativeDocumentMoniker": "Lab08.1(string)\\Lab08.1(string).cpp",
+              "ToolTip": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab08.1(string)\\Lab08.1(string)\\Lab08.1(string)\\Lab08.1(string).cpp",
+              "RelativeToolTip": "Lab08.1(string)\\Lab08.1(string).cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T12:45:24.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
